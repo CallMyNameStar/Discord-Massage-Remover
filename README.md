@@ -12,5 +12,6 @@ This helps you delete your messages quickly. :)
 Python3 Remover.py
 ```
 
+- Smple Console Menu
 
 <img src="https://i.imgur.com/ARSmwsr.png"/>
