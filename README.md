@@ -7,6 +7,10 @@ This helps you delete your messages quickly. :)
 
 # Instructions
 - Edit "TOKEN HERE" with your Discord token
-- `Python3 Remover.py` and follow the instructions
+- follow the instructions
+```
+Python3 Remover.py
+```
+
 
 <img src="https://i.imgur.com/ARSmwsr.png"/>
